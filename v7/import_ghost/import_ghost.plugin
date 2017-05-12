@@ -1,0 +1,13 @@
+[Core]
+Name = import_ghost
+Module = import_ghost
+
+[Nikola]
+PluginCategory = Command
+
+[Documentation]
+Author = Stephan Ruegamer
+Version = 0.1
+Website = http://plugins.getnikola.com/#import_ghost
+Description = Importing ghost blog export json files
+
